@@ -1,3 +1,10 @@
+This project is to demontrate an example of end-to-end Neural Network model development process using Pytorch. It starts with EDA, then develops the model, and use the pre-trained model to make inference. 
+Opportunities: 
+	1. Further input data analysis should reveal more ideas for feature engineering and selection.
+ 	2. Cross validation may be useful to reduce overfitting problem.
+	3. Train the model on GPU will increase the speed.
+  
+
 Project Structure:
 
 The code base include 6 Jupyter Notebook scripts as follows.
